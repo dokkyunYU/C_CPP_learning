@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(void)
 {
-  printf("Starting C++");
+  std::cout << "Starting C++";
   return 0;
 }
