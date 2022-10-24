@@ -3,8 +3,8 @@ using namespace std;
 
 int main(void)
 {
-  int baby;
-  cin >> baby;
-  cout << "아" << baby << "으" << endl;
+  int sdf;
+  std::cout << "Starting C++";
+  std::cin >> sdf;
   return 0;
 }
